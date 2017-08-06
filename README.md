@@ -1,2 +1,2 @@
 # weeabot
-Weeabot discord
+Weeabot discord bot
