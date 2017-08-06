@@ -1,0 +1,2 @@
+# weeabot
+Weeabot discord
